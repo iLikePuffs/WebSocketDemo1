@@ -1,0 +1,5 @@
+#让进程常驻内存
+spring-boot:
+  run:
+    profiles:
+      active: prod
