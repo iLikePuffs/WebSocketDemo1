@@ -20,8 +20,6 @@ public class MyWebSocketHandler implements WebSocketHandler {
      * @param session
      * @throws Exception
      */
-    //q:你知道启动WebSocket同步指的是什么吗？
-    //a:
     @Override
     public void afterConnectionEstablished(WebSocketSession session) throws Exception {
 
